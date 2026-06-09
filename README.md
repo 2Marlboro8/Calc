@@ -2,7 +2,7 @@
 
 > Профессиональный инструмент для составления смет на строительно-монтажные работы. База цен по рынку Казахстана 2024-2025 + ИИ-оценка на базе Claude.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://inspiring-otter-15d451.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://agent-6a283402d5921348438e1453--calcsrassul.netlify.app/)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?logo=tailwindcss&logoColor=white)
@@ -12,7 +12,7 @@
 
 ## 🌐 Демо
 
-**[inspiring-otter-15d451.netlify.app](https://inspiring-otter-15d451.netlify.app)**
+**[inspiring-otter-15d451.netlify.app](https://agent-6a283402d5921348438e1453--calcsrassul.netlify.app/)**
 
 ---
 
@@ -131,8 +131,8 @@ smet-calc/
 
 ## 👤 Автор
 
-**SANA Corp** — электромонтажные, LED-освещение, сантехнические работы  
-Объект: KAZ Minerals Aktogay, вахтовый городок «Кереге»
+**SANA Corp** — Рассул Нурбатчанов 
+Объект: Любая работа
 
 ---
 
