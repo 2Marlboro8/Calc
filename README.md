@@ -12,7 +12,7 @@
 
 ## 🌐 Демо
 
-**[inspiring-otter-15d451.netlify.app](https://agent-6a283402d5921348438e1453--calcsrassul.netlify.app/)**
+**[Тыкни](https://agent-6a283402d5921348438e1453--calcsrassul.netlify.app/)**
 
 ---
 
